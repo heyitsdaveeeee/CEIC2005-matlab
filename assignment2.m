@@ -58,6 +58,7 @@ plot(datanew(:,1), 1./(datanew(:,4))) %plotting data of time vs log concentratio
 title('Plot of Time vs 1 / Concentration of A')
 
 
+%this one is for concentration of B, information seems lacking on this part , assuming its order 0
 figure (4)
 subplot(1,3,1)
 title('plot time vs Conc B')
